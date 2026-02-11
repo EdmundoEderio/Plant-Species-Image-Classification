@@ -74,7 +74,7 @@ Below are the 20 medicinal plant species included in the dataset. Each class con
 - **Description:** Used in traditional medicine and food preparation.
 
 ### 13. Santol Leaves
-![Santol Leaves](images/plants/santol.png)
+![Santol Leaves](images/plants/santol.jpg)
 - **Scientific Name:** *Sandoricum koetjape*
 - **Description:** Leaves are used for digestive and anti-inflammatory remedies.
 
@@ -104,7 +104,7 @@ Below are the 20 medicinal plant species included in the dataset. Each class con
 - **Description:** Known for its antibacterial and calming properties.
 
 ### 19. Malunggay
-![Malunggay](images/plants/manlunggay.png)
+![Malunggay](images/plants/manlunggay.jpg)
 - **Scientific Name:** *Moringa oleifera*
 - **Description:** Highly nutritious plant used to boost immunity.
 
