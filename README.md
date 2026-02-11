@@ -14,7 +14,7 @@ The purpose of this project is to train a machine learning model capable of accu
 Below are the 20 medicinal plant species included in the dataset. Each class contains representative images used for training and evaluation.
 
 ### 1. Oregano
-![Oregano]((https://i.herbalreality.com/wp-content/uploads/2023/10/18162340/Oregano-Origanum-vulgare-1300x975.jpeg))
+![Oregano](https://i.herbalreality.com/wp-content/uploads/2023/10/18162340/Oregano-Origanum-vulgare-1300x975.jpeg)
 - **Scientific Name:** *Plectranthus amboinicus*
 - **Description:** A medicinal herb commonly used in the Philippines to treat coughs, colds, and respiratory conditions.
 
