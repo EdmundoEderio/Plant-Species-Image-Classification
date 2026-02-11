@@ -34,7 +34,7 @@ Below are the 20 medicinal plant species included in the dataset. Each class con
 - **Description:** Traditionally used to reduce inflammation and treat digestive issues.
 
 ### 5. Mango Leaves
-![Mango Leaves]([https://umamidays.com/averrhoa-bilimbi-kamias/](https://m.media-amazon.com/images/I/61VHiFHiEmL._AC_SL400_.jpg)
+![Mango Leaves](https://m.media-amazon.com/images/I/61VHiFHiEmL._AC_SL400_.jpg)
 - **Scientific Name:** *Mangifera indica*
 - **Description:** Leaves are used in traditional medicine for diabetes and respiratory problems.
 
