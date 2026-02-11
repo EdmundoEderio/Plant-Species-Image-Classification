@@ -39,12 +39,12 @@ Below are the 20 medicinal plant species included in the dataset. Each class con
 - **Description:** Leaves are used in traditional medicine for diabetes and respiratory problems.
 
 ### 6. Pandan
-![Pandan(https://www.vietworldkitchen.com/wp-content/uploads/2008/10/pandan-1.jpg)
+![Pandan](https://www.vietworldkitchen.com/wp-content/uploads/2008/10/pandan-1.jpg)
 - **Scientific Name:** *Pandanus amaryllifolius*
 - **Description:** Known for its fragrance and medicinal properties for pain and headaches.
 
 ### 7. Aloe Vera
-![Aloe Vera]([images/aloe_vera.jpg](https://cdn.britannica.com/73/177473-050-7B7C6918/aloe-vera-plant.jpg))
+![Aloe Vera](https://cdn.britannica.com/73/177473-050-7B7C6918/aloe-vera-plant.jpg)
 - **Scientific Name:** *Aloe vera*
 - **Description:** Widely used for skin treatment, burns, and wound healing.
 
