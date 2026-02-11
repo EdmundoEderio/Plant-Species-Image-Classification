@@ -162,9 +162,9 @@ These testing results indicate that the model can correctly identify medicinal p
 
 
 ### Screenshots:
-![Confusion Matrix](images/plants/ConfusionMatrix.png)
+![Confusion Matrix](images/plants/confusion.png)
 
-![Accuracy per Class](images/plants/Accuracyperclass.png)
+![Accuracy per Class](images/plants/accuracy.png)
 
 ![Overall Accuracy](results/overall_accuracy.png)
 
