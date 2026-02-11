@@ -146,7 +146,7 @@ Below are 10 sample screenshots showing the model’s predictions during testing
 
 ### Testing Screenshots
 
-![Test 1](https://drive.google.com/uc?export=view&id=1m0iCNygnM-pKswdB0qaYKZp9DwJNfWLp)
+![Test 1](images/plants/01.png)
 ![Test 2](https://drive.google.com/drive/folders/1Csx_Z0MTBgA6Y13y_pvR7lrE2T0AdMST)
 ![Test 3](https://drive.google.com/drive/folders/1Csx_Z0MTBgA6Y13y_pvR7lrE2T0AdMST)
 ![Test 4](https://drive.google.com/drive/folders/1Csx_Z0MTBgA6Y13y_pvR7lrE2T0AdMST)
