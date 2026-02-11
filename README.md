@@ -19,27 +19,27 @@ Below are the 20 medicinal plant species included in the dataset. Each class con
 - **Description:** A medicinal herb commonly used in the Philippines to treat coughs, colds, and respiratory conditions.
 
 ### 2. Peppermint
-![Peppermint]((https://cdn.mos.cms.futurecdn.net/TBk4mufJgZZ4jSbW4K6Raj-1280-80.jpg.webp))
+![Peppermint](https://cdn.mos.cms.futurecdn.net/TBk4mufJgZZ4jSbW4K6Raj-1280-80.jpg.webp)
 - **Scientific Name:** *Mentha × piperita*
 - **Description:** An aromatic plant used for digestion relief and as a natural remedy for headaches.
 
 ### 3. Clove
-![Clove]((https://cdn.mos.cms.futurecdn.net/dD52bNpiVsDi4fPkGFB6bL-1236-80.jpg.webp))
+![Clove](https://cdn.mos.cms.futurecdn.net/dD52bNpiVsDi4fPkGFB6bL-1236-80.jpg.webp)
 - **Scientific Name:** *Syzygium aromaticum*
 - **Description:** A flowering plant whose dried flower buds are used for pain relief and oral health.
 
 ### 4. Hilbas
-![Hilbas]((https://imgs.search.brave.com/LJOSvl42g6sFhRY23xnUU5aw9Syqg36coOdAJZN6OvU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zZWVk/dmlsbGV1c2EuY29t/L2Nkbi9zaG9wL2Zp/bGVzL3NodXR0ZXJz/dG9ja18yMzE2MTI4/ODc3c20uanBnP3Y9/MTczMjY0OTkxMCZ3/aWR0aD0xNDQ1))
+![Hilbas](https://imgs.search.brave.com/LJOSvl42g6sFhRY23xnUU5aw9Syqg36coOdAJZN6OvU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zZWVk/dmlsbGV1c2EuY29t/L2Nkbi9zaG9wL2Zp/bGVzL3NodXR0ZXJz/dG9ja18yMzE2MTI4/ODc3c20uanBnP3Y9/MTczMjY0OTkxMCZ3/aWR0aD0xNDQ1)
 - **Scientific Name:** *Artemisia vulgaris*
 - **Description:** Traditionally used to reduce inflammation and treat digestive issues.
 
 ### 5. Mango Leaves
-![Mango Leaves]((https://umamidays.com/averrhoa-bilimbi-kamias/))
+![Mango Leaves](https://umamidays.com/averrhoa-bilimbi-kamias/)
 - **Scientific Name:** *Mangifera indica*
 - **Description:** Leaves are used in traditional medicine for diabetes and respiratory problems.
 
 ### 6. Pandan
-![Pandan]([images/pandan.jpg](https://www.vietworldkitchen.com/wp-content/uploads/2008/10/pandan-1.jpg))
+![Pandan(https://www.vietworldkitchen.com/wp-content/uploads/2008/10/pandan-1.jpg)
 - **Scientific Name:** *Pandanus amaryllifolius*
 - **Description:** Known for its fragrance and medicinal properties for pain and headaches.
 
@@ -49,67 +49,67 @@ Below are the 20 medicinal plant species included in the dataset. Each class con
 - **Description:** Widely used for skin treatment, burns, and wound healing.
 
 ### 8. Anise
-![Anise]((https://cdn.mos.cms.futurecdn.net/dVWrYx3S2bjo2keSZBvPCS-1200-80.jpg))
+![Anise](https://cdn.mos.cms.futurecdn.net/dVWrYx3S2bjo2keSZBvPCS-1200-80.jpg)
 - **Scientific Name:** *Pimpinella anisum*
 - **Description:** Used to aid digestion and relieve bloating.
 
 ### 9. Calamansi
-![Calamansi]((https://bacolodpages.com/sites/default/files/styles/480x480/public/products/Calamansi2.jpg.webp?itok=CQf0A-L1))
+![Calamansi](https://bacolodpages.com/sites/default/files/styles/480x480/public/products/Calamansi2.jpg.webp?itok=CQf0A-L1)
 - **Scientific Name:** *Citrus microcarpa*
 - **Description:** A native citrus fruit used for immunity and respiratory relief.
 
 ### 10. Ampalaya
-![Ampalaya]((https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQOzlPtQSuW-vxUmjYn-0tls4c4OFCmpceoA&s))
+![Ampalaya](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQOzlPtQSuW-vxUmjYn-0tls4c4OFCmpceoA&s)
 - **Scientific Name:** *Momordica charantia*
 - **Description:** Known for helping regulate blood sugar levels.
 
 ### 11. Guyabano Leaves
-![Guyabano Leaves]((https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREjnmCsGII0GSi8ICzJ1M1JWvY1MGSj1lveg&s))
+![Guyabano Leaves](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREjnmCsGII0GSi8ICzJ1M1JWvY1MGSj1lveg&s)
 - **Scientific Name:** *Annona muricata*
 - **Description:** Traditionally used to boost immunity and promote relaxation.
 
 ### 12. Banana Leaves
-![Banana Leaves]((https://animals.sandiegozoo.org/sites/default/files/2017-02/banana_leaves.jpg))
+![Banana Leaves](https://animals.sandiegozoo.org/sites/default/files/2017-02/banana_leaves.jpg)
 - **Scientific Name:** *Musa spp.*
 - **Description:** Used in traditional medicine and food preparation.
 
 ### 13. Santol Leaves
-![Santol Leaves]((https://www.cabidigitallibrary.org/cms/10.1079/cabicompendium.50416/asset/af1231d8-23a7-4ae0-bdf7-2ed4b3e7674d/assets/graphic/50416_06.jpg))
+![Santol Leaves](https://www.cabidigitallibrary.org/cms/10.1079/cabicompendium.50416/asset/af1231d8-23a7-4ae0-bdf7-2ed4b3e7674d/assets/graphic/50416_06.jpg)
 - **Scientific Name:** *Sandoricum koetjape*
 - **Description:** Leaves are used for digestive and anti-inflammatory remedies.
 
 ### 14. Guava Leaves
-![Guava Leaves]((https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqXXjhdYPiPsGApkknz1JQp9NMOA7ONXDJQg&s))
+![Guava Leaves](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqXXjhdYPiPsGApkknz1JQp9NMOA7ONXDJQg&s)
 - **Scientific Name:** *Psidium guajava*
 - **Description:** Commonly used for treating diarrhea and wound cleansing.
 
 ### 15. Ipil-Ipil Leaves
-![Ipil-Ipil Leaves]((https://img.freepik.com/premium-photo/leucaena-leucocephala-herbal-ipil-ipil-leaf-space_63726-1776.jpg))
+![Ipil-Ipil Leaves](https://img.freepik.com/premium-photo/leucaena-leucocephala-herbal-ipil-ipil-leaf-space_63726-1776.jpg)
 - **Scientific Name:** *Leucaena leucocephala*
 - **Description:** Used for antibacterial and anti-inflammatory purposes.
 
 ### 16. Kangkong
-![Kangkong]((https://yummykitchentv.com/wp-content/uploads/2023/04/WATER-SPINACH_RESIZED1-1024x768.jpg))
+![Kangkong](https://yummykitchentv.com/wp-content/uploads/2023/04/WATER-SPINACH_RESIZED1-1024x768.jpg)
 - **Scientific Name:** *Ipomoea aquatica*
 - **Description:** A leafy vegetable with nutritional and medicinal value.
 
 ### 17. Alugbati
-![Alugbati]((https://img.lazcdn.com/g/p/e39c07ed7cee17234500d5c24d7a49e8.jpg_720x720q80.jpg))
+![Alugbati](https://img.lazcdn.com/g/p/e39c07ed7cee17234500d5c24d7a49e8.jpg_720x720q80.jpg)
 - **Scientific Name:** *Basella alba*
 - **Description:** Used for digestive health and skin conditions.
 
 ### 18. Lemongrass
-![Lemongrass]((https://upload.wikimedia.org/wikipedia/commons/b/bd/YosriNov04Pokok_Serai.JPG))
+![Lemongrass](https://upload.wikimedia.org/wikipedia/commons/b/bd/YosriNov04Pokok_Serai.JPG)
 - **Scientific Name:** *Cymbopogon citratus*
 - **Description:** Known for its antibacterial and calming properties.
 
 ### 19. Malunggay
-![Malunggay]((https://assets.unileversolutions.com/v1/88348707.jpg))
+![Malunggay](https://assets.unileversolutions.com/v1/88348707.jpg)
 - **Scientific Name:** *Moringa oleifera*
 - **Description:** Highly nutritious plant used to boost immunity.
 
 ### 20. Ginseng
-![Ginseng]((https://www.news-medical.net/image-handler/picture/2019/5/shutterstock_734716603.jpg))
+![Ginseng](https://www.news-medical.net/image-handler/picture/2019/5/shutterstock_734716603.jpg)
 - **Scientific Name:** *Panax ginseng*
 - **Description:** Used to increase energy and improve overall health.
 
@@ -162,9 +162,9 @@ These testing results indicate that the model can correctly identify medicinal p
 
 
 ### Screenshots:
-![Confusion Matrix]((https://drive.google.com/file/d/1QnsQEExjJ2hWAX4eKJN7hHPsDTSgqnDm/view?usp=drive_link))
+![Confusion Matrix](https://drive.google.com/file/d/1QnsQEExjJ2hWAX4eKJN7hHPsDTSgqnDm/view?usp=drive_link)
 
-![Accuracy per Class]((https://drive.google.com/file/d/1LRm_ZXK2oHEkXhRhvd19DjPIvG2V0BBN/view?usp=drive_link))
+![Accuracy per Class](https://drive.google.com/file/d/1LRm_ZXK2oHEkXhRhvd19DjPIvG2V0BBN/view?usp=drive_link)
 
 ![Overall Accuracy](results/overall_accuracy.png)
 
