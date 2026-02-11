@@ -119,10 +119,29 @@ Below are the 20 medicinal plant species included in the dataset. Each class con
 
 The image classification model was trained using the following parameters:
 
-- **Epochs:** 40  
-- **Batch Size:** 32  
-- **Learning Rate:** 0.001  
-- **Number of Images per Class:** Approximately 250 images per plant species  
+![Model Training Details](Image/Epochs.png)
+
+![Aloe Vera](Image/aloevera.png)
+![Alugbati](Image/alugbati.png)
+![Ampalaya](Image/ampalaya.png)
+![Anise](Image/anise.png)
+![Banana Laeves](Image/bananaleaves.png)
+![Calamansi](Image/calamansi.png)
+![Clove](Image/clove.png)
+![Ginseng](Image/ginseng.png)
+![Guava Leaves](Image/guavaleaves.png)
+![Guyabano Leaves](Image/guyabanoleaves.png)
+![Hilbas](Image/hilbas.png)
+![Ipil-Ipil Leaves](Image/ipilipil.png)
+![Kangkong](Image/kangkong.png)
+![Lemon Grass](Image/lemongrass.png)
+![Mango Laeves](Image/mangoleaves.png)
+![Malunggay](Image/manlunggay.png)
+![Oregano](Image/oregano.png)
+![Pandan](Image/pandan.png)
+![Peppermint](Image/peppermint.png)
+![Santol Laeves](Image/santol.png)
+
 
 These parameters were selected to balance learning efficiency, model accuracy, and prevention of overfitting.
 
