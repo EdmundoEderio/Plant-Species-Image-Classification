@@ -146,10 +146,10 @@ Below are 10 sample screenshots showing the model’s predictions during testing
 
 ### Testing Screenshots
 
-![Test 1](https://drive.google.com/file/d/1m0iCNygnM-pKswdB0qaYKZp9DwJNfWLp/view?usp=drive_link)
-![Test 2](https://drive.google.com/file/d/1zlXcCHML3Rmn-y1AImelkFAZ4HRqsgl7/view?usp=drive_link)
-![Test 3](https://drive.google.com/file/d/1kiMPwPPkAPANI4hSoe4T12Z5M0tYvlmt/view?usp=drive_link)
-![Test 4](https://drive.google.com/file/d/1_2TTxtOKDojEwJF6ZbMcs05r22HJ-XmF/view?usp=drive_link)
+![Test 1](https://drive.google.com/drive/folders/1Csx_Z0MTBgA6Y13y_pvR7lrE2T0AdMST)
+![Test 2](https://drive.google.com/drive/folders/1Csx_Z0MTBgA6Y13y_pvR7lrE2T0AdMST)
+![Test 3](https://drive.google.com/drive/folders/1Csx_Z0MTBgA6Y13y_pvR7lrE2T0AdMST)
+![Test 4](https://drive.google.com/drive/folders/1Csx_Z0MTBgA6Y13y_pvR7lrE2T0AdMST)
 ![Test 5](https://drive.google.com/file/d/1XheYp37DF46s7jfTWyOCRlPLeHhSU8nE/view?usp=drive_link)
 
 ![Test 6](https://drive.google.com/file/d/14lBg06y-mMe0BcBs4LY81HlDcOrT5jVQ/view?usp=drive_link)
