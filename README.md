@@ -187,6 +187,28 @@ These testing results indicate that the model can correctly identify medicinal p
 
 ---
 
+
+## Reflection
+
+### 1. How did the number of images per class affect your model’s accuracy?
+Having more images per class improved the model’s accuracy because it allowed the model to learn different variations such as lighting, angles, and backgrounds. Classes with fewer images were more likely to be misclassified.
+
+### 2. Which plant species were most commonly misclassified and why?
+Plant species with similar visual features were most commonly misclassified. For example, guava leaves and santol leaves were sometimes confused due to their similar shape and texture.
+
+### 3. How did changing the epochs, batch size, or learning rate affect the training results?
+Increasing the number of epochs helped the model learn better, but too many epochs caused overfitting. A batch size of 32 provided stable training, while a learning rate of 0.001 allowed efficient learning without instability.
+
+### 4. What challenges did you encounter during dataset collection and labeling?
+Some challenges included finding high-quality images, removing duplicates, and correcting mislabeled data. Variations in background and lighting also required manual cleaning of the dataset.
+
+### 5. If you were to improve your model, what specific changes would you make and why?
+The model could be improved by adding more high-quality images per class, applying stronger data augmentation, and using a more advanced pretrained model to improve accuracy.
+
+
+
+
+
 ## Conclusion
 
 The trained model demonstrates effective classification of Philippine medicinal plants and can serve as a foundation for future applications such as mobile plant identification systems and educational tools.
