@@ -104,7 +104,7 @@ Below are the 20 medicinal plant species included in the dataset. Each class con
 - **Description:** Known for its antibacterial and calming properties.
 
 ### 19. Malunggay
-![Malunggay](images/plants/manlunggay.jpg)
+![Malunggay](images/plants/malunggay.jpg)
 - **Scientific Name:** *Moringa oleifera*
 - **Description:** Highly nutritious plant used to boost immunity.
 
@@ -165,8 +165,6 @@ These testing results indicate that the model can correctly identify medicinal p
 ![Confusion Matrix](images/plants/confusion.png)
 
 ![Accuracy per Class](images/plants/accuracy.png)
-
-![Overall Accuracy](results/overall_accuracy.png)
 
 ---
 
