@@ -1,0 +1,20 @@
+0 Pandan
+1 Ginseng
+2 Malunggay
+3 Lemon Grass
+4 Alugbati
+5 Kangkong
+6 Ipil Ipil Le...
+7 Guava Leaves
+8 Santol Leave...
+9 Banana Leave...
+10 Guyabano Lea...
+11 Ampalaya
+12 Calamansi
+13 Anise
+14 Aloe Vera
+15 Mango Leaves
+16 Hilbas
+17 Clove
+18 Peppermint
+19 Oregano
