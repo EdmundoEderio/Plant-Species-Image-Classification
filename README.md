@@ -147,24 +147,24 @@ Below are 10 sample screenshots showing the model’s predictions during testing
 ### Testing Screenshots
 
 ![Test 1](images/plants/01.png)
-![Test 2](https://drive.google.com/drive/folders/1Csx_Z0MTBgA6Y13y_pvR7lrE2T0AdMST)
-![Test 3](https://drive.google.com/drive/folders/1Csx_Z0MTBgA6Y13y_pvR7lrE2T0AdMST)
-![Test 4](https://drive.google.com/drive/folders/1Csx_Z0MTBgA6Y13y_pvR7lrE2T0AdMST)
-![Test 5](https://drive.google.com/file/d/1XheYp37DF46s7jfTWyOCRlPLeHhSU8nE/view?usp=drive_link)
+![Test 2](images/plants/02.png)
+![Test 3](images/plants/03.png)
+![Test 4](images/plants/04.png)
+![Test 5](images/plants/05.png)
+![Test 6](images/plants/06.png)
+![Test 7](images/plants/07.png)
+![Test 8](images/plants/08.png)
+![Test 9](images/plants/09.png)
+![Test 10](images/plants/10.png)
 
-![Test 6](https://drive.google.com/file/d/14lBg06y-mMe0BcBs4LY81HlDcOrT5jVQ/view?usp=drive_link)
-![Test 7](https://drive.google.com/file/d/1ZL_MpN49QBFdKxO0yUcLYDI4I5opvmSn/view?usp=drive_link)
-![Test 8](https://drive.google.com/file/d/1dqWHLm-KFVA9VpiTHV4yPkcdtWq-phnc/view?usp=drive_link)
-![Test 9](https://drive.google.com/file/d/1RIo1puR80IzRfBJTV994WBQ5km2BBi6l/view?usp=drive_link)
-![Test 10](https://drive.google.com/file/d/1XXZAMmekd4hwfWsF2tqrrxQyC-eWPVJp/view?usp=drive_link)
 
 These testing results indicate that the model can correctly identify medicinal plant species with a high level of accuracy, demonstrating its effectiveness for practical and educational use.
 
 
 ### Screenshots:
-![Confusion Matrix](https://drive.google.com/file/d/1QnsQEExjJ2hWAX4eKJN7hHPsDTSgqnDm/view?usp=drive_link)
+![Confusion Matrix](images/plants/ConfusionMatrix.png)
 
-![Accuracy per Class](https://drive.google.com/file/d/1LRm_ZXK2oHEkXhRhvd19DjPIvG2V0BBN/view?usp=drive_link)
+![Accuracy per Class](images/plants/Accuracyperclass.png)
 
 ![Overall Accuracy](results/overall_accuracy.png)
 
